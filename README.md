@@ -1,1 +1,1 @@
-# Regis Test Head2
+# Regis Final v1 Landing Page
